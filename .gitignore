@@ -2,3 +2,6 @@
 datasets
 venv
 cache
+catboost_info
+.ipynb_checkpoints
+
