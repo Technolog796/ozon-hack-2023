@@ -5,3 +5,4 @@ cache
 catboost_info
 .ipynb_checkpoints
 
+__pycache__/utils.cpython-310.pyc
