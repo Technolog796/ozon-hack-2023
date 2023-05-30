@@ -1,7 +1,7 @@
 # ozon-hack-2023
 Поиск одинаковых товаров на маркетплейсе
 
-* [CatBoost_model](golden_boost.ipynb) — обучение градиентного бустинга на исходных данных даёт 0.44 на LB. (64 vcpu, 128 ram)
+* [CatBoost_model](golden_boost.ipynb) — обучение градиентного бустинга на исходных данных даёт 0.42 на LB. (64 vcpu, 128 ram)
 * [Make_embeds](make_embeds.py) — получение векторов от предобученного LaBSE.
 * [LaBSE_finetune](LaBSE.ipynb) — дообучение LaBSE. (V100)
 * [MultiModal](MultiModal+LaBSE+norm.ipynb) — обучение мультимодальной сети с Contrastive loss. (V100)
